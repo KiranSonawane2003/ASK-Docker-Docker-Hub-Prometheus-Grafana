@@ -1,0 +1,11 @@
+version: '3'
+
+services:
+  sql.data.client:
+    image: kiran257874/sqlclient
+      
+  techtalks.web:
+    image: kiran257874/techtalksweb
+      
+  techtalks.api:
+    image: kiran257874/techtalksapi

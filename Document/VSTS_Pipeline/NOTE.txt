@@ -1,0 +1,4 @@
+1>Please set RABC Off while creating AKS.
+2>Grafana data source has to be updated with updated prometheus URL with :portnumber
+ i.e. http://104.46.124.35:80
+Otherwise grafana will gives an "Request Error" or .....[object object]
